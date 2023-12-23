@@ -1,5 +1,5 @@
 # porfolio
 
 
-Below are some templates we will finalize one 
+Below are some templates finalize one 
 (https://jamstackthemes.dev/theme/#archetype=portfolio)
